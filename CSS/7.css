@@ -1,0 +1,18 @@
+div.block-content{
+	/* background-image: url("../img/2.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 80%;
+	width: 80%; */
+}
+footer{
+	border-radius: 12px;
+	padding: 12px;
+	font-size: 20px;
+	font-family: Montserrat;
+	color: #FFFFFF;
+	background: #4C85FF;
+}
+footer div{
+	margin: 5px;
+}
